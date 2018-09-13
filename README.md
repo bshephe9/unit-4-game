@@ -1,4 +1,5 @@
-
+Crystal Collecter 
+--
 What does this game do? 
 - To start this game, the player will click on one of the four crystals. Each crystal will provide a randomized value increase to the players score. The objective of the game is for the player to increase their total score to match the randomized number score provided. 
 
