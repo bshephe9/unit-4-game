@@ -9,7 +9,7 @@ How does the player lose?
  - The player loses if their personal score exceeds that of the random number. 
  
 Do the crystal amounts remain consistent game to game? 
- - No the amount change for each game. This allows for the game to continuously challenge the user. 
+ - No, the amounts change for each game. This allows for the game to continuously challenge the user. 
  
 ---
  This game was created using HTML, CSS, and JQuery. 
