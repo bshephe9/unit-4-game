@@ -1,4 +1,3 @@
-Crystal Collecter 
 
 What does this game do? 
 - To start this game, the player will click on one of the four crystals. Each crystal will provide a randomized value increase to the players score. The objective of the game is for the player to increase their total score to match the randomized number score provided. 
@@ -15,9 +14,7 @@ Do the crystal amounts remain consistent game to game?
 ---
  This game was created using HTML, CSS, and JQuery. 
 --- 
-Here is a screenshot of the game: 
-
-
+<img width="781" alt="screen shot 2018-09-13 at 6 07 59 pm" src="https://user-images.githubusercontent.com/37412308/45518599-1cb32700-b780-11e8-88c6-ef4fc3cb84f6.png">
  
  
 
